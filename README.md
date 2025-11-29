@@ -80,4 +80,4 @@ This project is submitted as *Task 1* for the *CodSoft Python Development Intern
 
 *Subbu Murugan Konar*  
 TYBSc Computer Science  
-GitHub: <your GitHub link>
+GitHub: https://github.com/Subbu3107/Codsoft
